@@ -1,0 +1,7 @@
+*.txt
+build/
+/config.json
+**/*.tmp
+!important.txt
+*.log
+!main.log
