@@ -5,3 +5,4 @@ build/
 !important.txt
 *.log
 !main.log
+*.doc
